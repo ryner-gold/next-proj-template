@@ -1,4 +1,4 @@
-import styles from "@/components/DevWrapper/DevWrapper.module.css";
+import styles from "@/feature/DevWrapper/DevWrapper.module.css";
 import { ReactNode } from "react";
 
 export interface DevWrapperProps {
